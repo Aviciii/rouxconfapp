@@ -7,7 +7,7 @@
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyle.css" rel="stylesheet">
   </head>
-  <body id="home">
+  <body id="home">  
     
     <section class="container">
       <div class="content row">
